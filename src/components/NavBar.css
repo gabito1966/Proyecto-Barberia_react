@@ -1,0 +1,47 @@
+header {
+    background-image: url('../assets/img/carbon_fibre.png');
+}
+.logo {
+    width: 8em;
+    margin: 2em;
+    border-radius: 10px;
+}
+
+.logo:hover {
+    transform: scale(1.2);
+}
+
+.titulo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #E6E6FA;
+}
+
+.titulo:hover {
+    color: #c0baba;
+    cursor: pointer;
+}
+
+.navbar {
+    background-image: url('../assets/img/carbon_fibre.png');
+}
+
+nav {
+    position: absolute;
+    top: 35%;
+    right: 5%;
+    padding: 0.2em;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav NavLink {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 3em;
+    margin: 0.3em;
+}
+

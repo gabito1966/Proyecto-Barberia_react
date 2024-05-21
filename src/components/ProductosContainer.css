@@ -1,0 +1,11 @@
+.productos__section {
+    border-radius: 1em;
+    background-color: #615c5c;
+}
+
+.productos__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+

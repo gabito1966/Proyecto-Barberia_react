@@ -1,0 +1,10 @@
+.servicios__section {
+    border-radius: 1em;
+    background-color: #615c5c;
+}
+
+.services__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}

@@ -1,0 +1,57 @@
+main{
+    max-width: 90%;
+}
+
+.servicio{
+    background: linear-gradient(#bf6666, #f0ebe9);
+    height: 90%;
+    padding: 20px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px 5px ;
+}
+
+.servicio h1{
+    font-size: 3em;
+    font-weight: bold;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.service {
+    width: 95%;
+    padding: 20px 16px;
+    border-radius: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    gap: 1em;
+}
+
+.service__content {
+    background-color: #f0ebe9;
+    border-radius: 1em;
+}
+
+.service__img {
+    width: 380px;
+    border-radius: 1em;
+    display: block;
+    margin: auto;
+}
+
+.service__body {
+    text-align: center;
+    display: block;
+    margin-top: 1em;
+}
+.service__title {
+    text-decoration: underline;
+}
+
+.service__description{
+    font-size: 1.1em;
+}
+.service__price {
+    font-size: 2em;
+    font-weight: bold;
+}

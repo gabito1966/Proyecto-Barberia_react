@@ -1,0 +1,74 @@
+main {
+    max-width: 800px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+}
+
+.contacto {
+    background: linear-gradient(#252424, #f5f3f2);
+}
+
+.titulo-secundario {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.formulario {
+    display: block;
+    gap: 20px;
+    padding: 20px;
+}
+
+.formulario__checkbox {
+    margin-right: 10px;
+}
+
+.form__contact{
+    display: flex;
+    width: 100%;
+}
+
+legend {
+    padding: 10px;
+}
+
+.checkbox {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.horarios h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.6em;
+    padding: 0.5em;
+}
+.table {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+    background: linear-gradient(#888583, #f0ebe9);
+    align-items: center;
+}
+
+thead {
+    background-color: #574d45;
+    color: #E6E6FA;
+    font-weight: bold;
+}
+
+td,
+th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+    text-align: center;
+}
+
+
+
+
+
+
