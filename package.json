@@ -19,8 +19,6 @@
     "react-router-dom": "^6.23.0",
     "sweetalert2": "^11.10.8",
     "sweetalert2-react-content": "^5.0.7",
-    "react-google-maps": "9.4.5",
-    "@types/googlemaps":"^3.43.3",
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "18.3.2"
   },
