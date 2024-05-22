@@ -16,9 +16,9 @@ export const CarritoPage = () => {
     }
 
     const handleAlert = () => {
-        alert(`Compraste ${itemsTotal()} items y su valor es de ${calcularTotal()} pesos`)
-        
+        alert(`Compraste ${itemsTotal()} items y su valor es de ${calcularTotal()}`)
     }
+    
 
     return (
         <main>

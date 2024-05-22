@@ -3,7 +3,7 @@
         "id":1,
         "family":"Cabello",
         "title":"Shampoo Barber",
-        "image":"./src/assets/img/ShampooBarber.jpg" ,
+        "image":"/src/assets/img/ShampooBarber.jpg" ,
         "price":16000
     },
     {
