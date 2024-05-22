@@ -1,9 +1,9 @@
 import { useContext } from 'react'
-import ProductoBanner from '../assets/img/product-bg.jpg'
 import { CarritoContext } from '../context/CarritoContext'
 import { ProductosContext } from '../context/ProductosContext'
 import { Card } from './Card'
 import './ProductosComponent.css'
+import ProductoBanner from '/images/producto-bg.jpg'
 
 export const ProductosComponent = () => {
    

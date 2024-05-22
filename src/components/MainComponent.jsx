@@ -1,7 +1,7 @@
-import Banner from '../assets/img/barberia.jpeg'
-import diferenciales from '../assets/img/diferenciales.jpg'
-import utensilios from '../assets/img/utensilios.jpg'
 import './MainComponent.css'
+import Banner from '/images/barberia.jpeg'
+import diferenciales from '/images/diferenciales.jpg'
+import utensilios from '/images/utensilios.jpg'
 
 
 export const MainComponent = () => {

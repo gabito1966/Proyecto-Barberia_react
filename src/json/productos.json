@@ -3,196 +3,196 @@
         "id":1,
         "family":"Cabello",
         "title":"Shampoo Barber",
-        "image":"/src/assets/img/ShampooBarber.jpg" ,
+        "image":"/images/ShampooBarber.jpg" ,
         "price":16000
     },
     {
         "id":2,
         "family":"Cabello",
         "title":"Shampoo Loreal canas",
-        "image":"./src/assets/img/ShampooNeutralizadorCanas.jpg" ,
+        "image":"/images/ShampooNeutralizadorCanas.jpg" ,
         "price":12500
     },
     {
         "id":3,
         "family":"Cabello",
         "title":"Shampoo Loreal rubio",
-        "image":"./src/assets/img/ShampooNeutralizadorRubio.jpg" ,
+        "image":"/images/ShampooNeutralizadorRubio.jpg" ,
         "price":12500
     },
     {
         "id":4,
         "family":"Cabello",
         "title":"Activador de rizos",
-        "image":"./src/assets/img/ActivadorRizos.jpg",
+        "image":"/images/ActivadorRizos.jpg",
         "price":11000
     },
     {
         "id":5,
         "family":"Barba",
         "title":"Acondicionador Barber",
-        "image":"./src/assets/img/AcondicionadorBarba.jpg",
+        "image":"/images/AcondicionadorBarba.jpg",
         "price":9200
     },
     {
         "id":6,
         "family":"Barba",
         "title":"Gel Barber",
-        "image":"./src/assets/img/GelBarber.jpg" ,
+        "image":"/images/GelBarber.jpg" ,
         "price":6800
     },
     {
         "id":7,
         "family":"Barba",
         "title":"Cera Barber",
-        "image":"./src/assets/img/CeraBarber.jpg" ,
+        "image":"/images/CeraBarber.jpg" ,
         "price":7200
     },
     {
         "id":8,
         "family":"Barba",
         "title":"Serum aceite argon",
-        "image":"./src/assets/img/SerumBarber.jpg" ,
+        "image":"/images/SerumBarber.jpg" ,
         "price":6300
     },
     {
         "id":9,
         "family":"Barba",
         "title":"Aceite esencial de kendi",
-        "image":"./src/assets/img/AceiteEsencialKendi.jpg" ,
+        "image":"/images/AceiteEsencialKendi.jpg" ,
         "price":14000
     },
     {
         "id":10,
         "family":"Cabello",
         "title":"Desenredante",
-        "image":"./src/assets/img/DesenredanteInstantaneo.jpg" ,
+        "image":"/images/DesenredanteInstantaneo.jpg" ,
         "price":6900
     },
     {
         "id":11,
         "family":"Cabello",
         "title":"Spray brillo",
-        "image":"./src/assets/img/SprayBrillo.jpg",
+        "image":"/images/SprayBrillo.jpg",
         "price":5800
     },
     {
         "id":12,
         "family":"Cabello",
         "title":"Spray fijación",
-        "image":"./src/assets/img/SprayFijacion.jpg" ,
+        "image":"/images/SprayFijacion.jpg" ,
         "price":5700
     },
     {
         "id":13,
         "family":"Accesorios",
         "title":"Pulverizador de agua",
-        "image":"./src/assets/img/PulverizadorAgua.jpg" ,
+        "image":"/images/PulverizadorAgua.jpg" ,
         "price":2500
     },
     {
         "id":14,
         "family":"Accesorios",
         "title":"Peine barbero escuadra",
-        "image":"./src/assets/img/PeineBarberoEscuadra.jpg" ,
+        "image":"/images/PeineBarberoEscuadra.jpg" ,
         "price":3400
     },
     {
         "id":15,
         "family":"Accesorios",
         "title":"Brocha de afeitar",
-        "image":"./src/assets/img/BrochaAfeitar.jpg" ,
+        "image":"/images/BrochaAfeitar.jpg" ,
         "price":2900
     },
     {
         "id":16,
         "family":"Accesorios",
         "title":"Cepillo termico",
-        "image":"./src/assets/img/CepilloTermico.jpg" ,
+        "image":"/images/CepilloTermico.jpg" ,
         "price":24000
     },
     {
         "id":17,
         "family":"Accesorios",
         "title":"Set de tijeras",
-        "image":"./src/assets/img/SetTijeras.jpg" ,
+        "image":"/images/SetTijeras.jpg" ,
         "price":65000
     },
     {
         "id":18,
         "family":"Accesorios",
         "title":"Kit de tijeras",
-        "image":"./src/assets/img/KitTijeras.jpg" ,
+        "image":"/images/KitTijeras.jpg" ,
         "price":102000
     },
     {
         "id":19,
         "family":"Accesorios",
         "title":"Navaja con estuche",
-        "image":"./src/assets/img/NavajaConEstuche.jpg" ,
+        "image":"/images/NavajaConEstuche.jpg" ,
         "price":70000
     },
     {
         "id":20,
         "family":"Accesorios",
         "title":"Navaja mango maderia",
-        "image":"./src/assets/img/NavajaMangoMadera.jpg" ,
+        "image":"/images/NavajaMangoMadera.jpg" ,
         "price":98000
     },
     {
         "id":21,
         "family":"Accesorios",
         "title":"Maquina Clipper",
-        "image":"./src/assets/img/MaquinaClipper.jpg" ,
+        "image":"/images/MaquinaClipper.jpg" ,
         "price":175000
     },
     {
         "id":22,
         "family":"Accesorios",
         "title":"Maquina Wahl",
-        "image":"./src/assets/img/MaquinaCortePelo.jpg" ,
+        "image":"/images/MaquinaCortePelo.jpg" ,
         "price":210000
     },
     {
         "id":23,
         "family":"Accesorios",
         "title":"Maquina recargable Teknikpro",
-        "image":"./src/assets/img/MaquinaCorteRecargable.jpg" ,
+        "image":"/images/MaquinaCorteRecargable.jpg" ,
         "price":320000
     },
     {
         "id":24,
         "family":"Accesorios",
         "title":"Kit secador de pelo",
-        "image":"./src/assets/img/KitSecador.jpg" ,
+        "image":"/images/KitSecador.jpg" ,
         "price":450000
     },
     {
         "id":25,
         "family":"Muebles",
         "title":"Lavacabezas blanco",
-        "image":"./src/assets/img/LavaCabezas.jpg" ,
+        "image":"/images/LavaCabezas.jpg" ,
         "price":950000
     },
     {
         "id":26,
         "family":"Muebles",
         "title":"Lavacabezas monocomando",
-        "image":"./src/assets/img/LavacabezasMonocomando.jpg" ,
+        "image":"/images/LavacabezasMonocomando.jpg" ,
         "price":1050000
     },
     {
         "id":27,
         "family":"Muebles",
         "title":"Sillon barbero marron",
-        "image":"./src/assets/img/SillonBarberoMarron.jpg" ,
+        "image":"/images/SillonBarberoMarron.jpg" ,
         "price":1400000
     },
     {
         "id":28,
         "family":"Muebles",
         "title":"Sillon barbero negro",
-        "image":"./src/assets/img/SillonBarberoNegro.jpg" ,
+        "image":"/images/SillonBarberoNegro.jpg" ,
         "price":1600000
     }
 ]

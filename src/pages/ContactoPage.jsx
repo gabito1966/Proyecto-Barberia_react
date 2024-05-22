@@ -1,5 +1,5 @@
-import contactoBanner from '../assets/img/contact-bg.jpg';
 import './ContactoPage.css';
+import contactoBanner from '/images/contact-bg.jpg';
 
 export const ContactoPage = () => {
   return (

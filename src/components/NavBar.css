@@ -1,5 +1,5 @@
 header {
-    background-image: url('../assets/img/carbon_fibre.png');
+    background-image: url('/images/carbon_fibre.png');
 }
 .logo {
     width: 8em;
@@ -23,7 +23,7 @@ header {
 }
 
 .navbar {
-    background-image: url('../assets/img/carbon_fibre.png');
+    background-image: url('/images/carbon_fibre.png');
 }
 
 nav {

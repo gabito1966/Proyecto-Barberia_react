@@ -2,9 +2,9 @@ import { ShoppingCart } from "@mui/icons-material";
 import { Badge } from "@mui/material";
 import { useContext } from 'react';
 import { NavLink } from "react-router-dom";
-import Logo from '../assets/img/LogoBarberia.jpg';
 import { CarritoContext } from '../context/CarritoContext';
 import './NavBar.css';
+import Logo from '/images/LogoBarberia.jpg';
 
 export const NavBar = () => {
     const { listaCompras } = useContext(CarritoContext)

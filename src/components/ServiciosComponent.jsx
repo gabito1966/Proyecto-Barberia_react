@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
-import servicioBanner from '../assets/img/servicios-bg.jpg';
 import Servicios from '../json/servicios.json';
 import './ServiciosComponent.css';
+import servicioBanner from '/images/servicios-bg.jpg';
 
 
 export const ServiciosComponent = ()=> {
