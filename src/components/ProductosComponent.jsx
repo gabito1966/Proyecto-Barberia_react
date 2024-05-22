@@ -3,7 +3,7 @@ import { CarritoContext } from '../context/CarritoContext'
 import { ProductosContext } from '../context/ProductosContext'
 import { Card } from './Card'
 import './ProductosComponent.css'
-import ProductoBanner from '/images/producto-bg.jpg'
+import ProductoBanner from '/images/product-bg.jpg'
 
 export const ProductosComponent = () => {
    
