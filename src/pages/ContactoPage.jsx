@@ -11,24 +11,23 @@ export const ContactoPage = () => {
         <h2 className="titulo-secundario mt-5">CONTACTO</h2>
         <form className="formulario" id="formulario">
           <div className="row container">
-            <div className="col-6"><label htmlFor="name" className="form-label">Nombre</label>
+            <div className="col-12 col-sm-6"><label htmlFor="name" className="form-label">Nombre</label>
               <input type="text" className="form-control" id='name' />
             </div>
-            <div className="col-6">
+            <div className="col-12 col-sm-6">
               <label htmlFor="phone" className="form-label">Telefono</label>
               <input type="text" className="form-control" id='phone' />
             </div>
-            <div className="col-6">
+            <div className="col-12 col-sm-6">
               <label htmlFor="email" className="form-label">Email</label>
               <input type="email" className="form-control" id="emai" />
             </div>
-            <div className="col-6">
+            <div className="col-12 col-sm-6">
               <label htmlFor="password" className="form-label">Password</label>
               <input type="password" className="form-control" id="password" />
             </div>
           </div>
-          
-          <div className="form__contact justify-content-between">
+          <div className="form__contact  justify-content-between">
                 <fieldset>
                   <legend >¿Como le gustaria que lo contactemos?</legend>
                   <div className='d-flex justify-content-between'>
@@ -53,20 +52,20 @@ export const ContactoPage = () => {
           </div>
 
           <div className='d-md-flex justify-content-md-center mt-3'>
-            <button className='btn btn-secondary col-4 '>Enviar</button>
+            <button className='btn btn-secondary col-12 col-sm-4 fs-3'>Enviar</button>
           </div>
         </form>
         <div className="horarios">
           <h2>Nuestros horarios</h2>
         </div>
         <table className="table">
-          <thead>
+          <thead className='fs-3'>
             <tr>
-              <th>Día</th>
-              <th>Horario</th>
+              <th scope='col' className='col-6'>Día</th>
+              <th scope='col' className='col-6'>Horario</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody className='fs-6'>
             <tr>
               <td>Lunes</td>
               <td>08hs-20hs</td>

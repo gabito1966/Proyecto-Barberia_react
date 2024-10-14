@@ -55,3 +55,17 @@ main{
     font-size: 2em;
     font-weight: bold;
 }
+
+
+/* Medias query */
+@media only screen and (max-width: 576px) {
+    
+.service {
+    max-width: 500px;
+    padding: 5px 4px;
+    gap: 1em;
+}
+
+.service__img {
+    width: 300px;
+}}

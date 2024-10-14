@@ -57,7 +57,6 @@ legend {
 thead {
     background-color: #574d45;
     color: #E6E6FA;
-    font-weight: bold;
 }
 
 td,
@@ -68,7 +67,31 @@ th {
 }
 
 
-
-
+/* Medias query */
+@media only screen and (max-width: 576px) {
+    .titulo-secundario {
+        font-size: 1.8em;
+        margin: 0;
+    }
+    img {
+        max-width: 100%;
+    }
+    .form__contact{
+        display: block;
+        font-size: 0.5emem;
+    }
+    .table {
+        max-width: 100%;
+        margin: auto;
+        font-size: 1em;
+    }
+    legend {
+        font-size: 12px;
+        max-width: 100%;
+    }
+    label {
+        font-size: 14px;
+    }
+}
 
 
